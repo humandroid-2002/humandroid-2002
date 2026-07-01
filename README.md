@@ -37,10 +37,10 @@
 
 <pre lang="yaml">humandroid-2002@github
 ────────────────────────────
-name       : yama
-pronouns   : he/him
-location   : Italy
-born    : 10 Jan 2002
+name: yama
+pronouns: he/him
+location: Italy
+born: 10 Jan 2002
 </pre>
 
 </td>
