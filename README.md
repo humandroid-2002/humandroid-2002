@@ -41,8 +41,6 @@ born       : 10/01/2002
 </td>
 </tr>
 </table>
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 ### `$ ls ./langs/`
 
