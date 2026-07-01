@@ -19,7 +19,9 @@
 <br>
 
 <div align="center">
+
 ### `$ neofetch`
+
 <table>
 <tr>
 <td align="center" valign="middle" width="150">
