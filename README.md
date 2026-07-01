@@ -40,7 +40,6 @@
 name       : yama
 pronouns   : he/him
 location   : Italy
-education  : Applied Informatics @ UoM
 born       : 10 Jan 2002
 </pre>
 
