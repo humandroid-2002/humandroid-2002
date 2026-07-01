@@ -1,7 +1,13 @@
 <div align="center">
+  <img src="shark-header.svg" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21;" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="shark-footer.svg" />
 </div>
 
 <div align="center">
