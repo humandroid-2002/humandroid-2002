@@ -86,17 +86,6 @@ born       : 10/01/2002
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=humandroid-2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=humandroid-2002&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=humandroid-2002&label=Profile%20Views&color=7AA2F7&style=flat" />
 </p>
