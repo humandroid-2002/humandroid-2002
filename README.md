@@ -40,7 +40,7 @@
 name       : yama
 pronouns   : he/him
 location   : Italy
-born       : 10 Jan 2002
+born    : 10 Jan 2002
 </pre>
 
 </td>
