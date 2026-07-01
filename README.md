@@ -31,15 +31,22 @@
 </td>
 <td>
 
-<pre>
-humandroid-2002@github
-──────────────────
+<table>
+<tr>
+<td>
+
+<pre lang="yaml">humandroid-2002@github
+────────────────────────────
 name       : yama
-pronouns   : he/his/him
-location   : Italy, MI
+pronouns   : he/him
+location   : Italy
 education  : Applied Informatics @ UoM
-born       : 10/01/2002
+born       : 10 Jan 2002
 </pre>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
