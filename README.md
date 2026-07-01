@@ -57,8 +57,9 @@ born       : 10/01/2002
 <img src="https://custom-icon-badges.demolab.com/badge/Smali-000000.svg?logo=android&logoColor=white" alt="Smali"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Javascript-000000.svg?logo=Javascript&logoColor=white" alt="JavaScript"/>
 
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
-
 <br>
 
 ### `$ ls ./OS/`
@@ -68,8 +69,9 @@ born       : 10/01/2002
 <img src="https://custom-icon-badges.demolab.com/badge/Windows-000000?logo=windows10&logoColor=white" alt="Windows"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Android-000000?logo=android&logoColor=white" alt="Android"/>
 
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
-
 <br>
 
 ### `$ contrib --graph`
@@ -80,11 +82,14 @@ born       : 10/01/2002
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daglaroglou&bg_color=ffffff&color=000000&line=000000&point=999999&area=true&area_color=000000&hide_border=true&custom_title="/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=daglaroglou&bg_color=000000&color=ffffff&line=ffffff&point=666666&area=true&area_color=ffffff&hide_border=true&custom_title=" width="95%" alt="contribution graph"/>
   </picture>
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
-
 <br>
 
----
+<div align="center">
+  <img src="c12.gif" width="5%" alt="Animation" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=humandroid-2002&label=Profile%20Views&color=7AA2F7&style=flat" />
