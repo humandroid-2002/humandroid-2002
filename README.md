@@ -19,6 +19,8 @@
 ### `$ neofetch`
 
 <div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+</div>
 <table>
 <tr>
 <td align="center" valign="middle" width="150">
