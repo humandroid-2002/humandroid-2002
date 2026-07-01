@@ -16,6 +16,14 @@
 
 <br>
 
+---
+
+<br>
+
+### `$ neofetch`
+
+<div align="center">
+<table>
 <tr>
 <td align="center" valign="middle" width="150">
 <br>
