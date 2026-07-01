@@ -31,7 +31,7 @@
 </td>
 <td>
 
-```yaml
+<pre>
 humandroid-2002@github
 ──────────────────
 name       : yama
@@ -39,7 +39,7 @@ pronouns   : he/his/him
 location   : Italy, MI
 education  : Applied Informatics @ UoM
 born       : 10/01/2002
-```
+</pre>
 
 </td>
 </tr>
