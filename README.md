@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%3E+humandroid-2002" alt="header"/>
-
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:000000,100:222222&text=%20&fontColor=FFFFFF&animation=fadeIn&reversal=true&section=footer"
-    alt="waving separator"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21;" alt="Typing SVG" />
 </div>
 
-<br>
-
----
+<div align="center">
+  <img src="split.gif" alt="Custom Divider" width="100%" height="4px" />
+</div>
 
 <br>
 
