@@ -14,6 +14,10 @@
   <img src="split.gif" alt="Custom Divider" width="100%" height="4px" />
 </div>
 
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+</div>
+
 <br>
 
 ### `$ neofetch`
